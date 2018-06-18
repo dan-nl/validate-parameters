@@ -14,7 +14,6 @@ var isValid = require( './is-valid' )
 var isValidDate = require( './is-valid-date' )
 var setParam = require( './set-param' )
 var required = require( './required' )
-var throwError = require( './throw-error' )
 
 /**
  * @type {Object} Validate

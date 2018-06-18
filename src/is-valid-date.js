@@ -7,8 +7,8 @@
  * @throws {Error}
  */
 function isValidDate() {
-  this.type = 'valid date'
   this.valid = this.isDate( this.param ) && !isNaN( this.param.getTime() )
+  this.type = 'valid date'
 
   return this.isValid()
 }
