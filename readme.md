@@ -98,9 +98,5 @@ returns the param value unless the validator evaluates to false in which case fa
 [coveralls-image]: https://coveralls.io/repos/github/dan-nl/validate-parameters/badge.svg?branch=master
 [coveralls-url]: https://coveralls.io/github/dan-nl/validate-parameters?branch=master
 [mit-license]: https://raw.githubusercontent.com/dan-nl/validate-parameters/master/license.txt
-[npm-image]: https://img.shields.io/npm/v/validate-parameters.svg
-[npm-url]: https://www.npmjs.com/package/validate-parameters
-[nsp-image]: https://nodesecurity.io/orgs/githubdan-nl/projects/dca151df-e03a-48fe-85af-727e8f96e42a/badge
-[nsp-url]: https://nodesecurity.io/orgs/githubdan-nl/projects/dca151df-e03a-48fe-85af-727e8f96e42a
 [travis-image]: https://travis-ci.org/dan-nl/validate-parameters.svg?branch=master
 [travis-url]: https://travis-ci.org/dan-nl/validate-parameters

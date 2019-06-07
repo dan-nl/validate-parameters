@@ -28,15 +28,15 @@
       "pre-commit": "npm run pre-commit"
     }
   },
+  "dependencies": {
+    "validator": "^11.0.0"
+  },
   "devDependencies": {
-    "coveralls": "^3.0.3",
-    "eslint": "^5.16.0",
-    "eslint-config-dan-nl": "^0.3.1",
+    "coveralls": "^3.0.4",
+    "eslint": "^4.19.1",
+    "eslint-config-dan-nl": "^0.4.1",
     "ghooks": "^2.0.4",
     "sinon": "^7.3.2",
     "tap": "^14.2.2"
-  },
-  "dependencies": {
-    "validator": "^11.0.0"
   }
 }
