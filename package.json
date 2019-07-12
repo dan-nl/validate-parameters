@@ -32,11 +32,11 @@
     "validator": "^11.0.0"
   },
   "devDependencies": {
-    "coveralls": "^3.0.4",
+    "coveralls": "^3.0.5",
     "eslint": "^4.19.1",
     "eslint-config-dan-nl": "^0.4.1",
     "ghooks": "^2.0.4",
     "sinon": "^7.3.2",
-    "tap": "^12.7.0"
+    "tap": "^14.4.1"
   }
 }
